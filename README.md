@@ -180,3 +180,21 @@ byte S = Sc.nextByte();
 <img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/4099b5b4-9542-4a52-8370-ec35c2d53c1c"/>
 <p>Example:</p>
 <img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/a5926bbc-df9d-4311-9669-dfb62ed69c0d"/>
+<br/>
+<h1>Array</h1>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/bd8fc5e9-b5ac-4e3d-b832-c61d701adbc9"/>
+<h3>One Dimesion Array</h3>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/469d5b05-227c-442a-a1d7-6e3816e16b71"/>
+<h3>Example:</h3>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/b634b44b-d8f3-4976-9b3a-1413842f08da"/>
+<h3>For Each Loop</h3>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/2867e5e7-57fa-4fda-93e0-e2212bc05ce8"/>
+<h3>Example</h3>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/3278503e-bf70-4b03-a204-06989e89d46c"/>
+<h3>Integer.MAX_VALUE</h3>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/fac984ea-9ef6-4560-b227-8db6cadfa0f5"/>
+<h3>Two DimensionArray</h3>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/eba67285-ed3d-4d48-aaba-e5a90917e4c3)"/>
+<h3>Example</h3>
+img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/21cc28e2-8c60-4d57-8949-52289fd54a55"/>
+<br/>
