@@ -194,7 +194,7 @@ byte S = Sc.nextByte();
 <h3>Integer.MAX_VALUE</h3>
 <img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/fac984ea-9ef6-4560-b227-8db6cadfa0f5"/>
 <h3>Two DimensionArray</h3>
-<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/eba67285-ed3d-4d48-aaba-e5a90917e4c3)"/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/eba67285-ed3d-4d48-aaba-e5a90917e4c3"/>
 <h3>Example</h3>
-img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/21cc28e2-8c60-4d57-8949-52289fd54a55"/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/21cc28e2-8c60-4d57-8949-52289fd54a55"/>
 <br/>
