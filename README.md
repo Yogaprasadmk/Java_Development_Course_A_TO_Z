@@ -198,3 +198,9 @@ byte S = Sc.nextByte();
 <h3>Example</h3>
 <img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/21cc28e2-8c60-4d57-8949-52289fd54a55"/>
 <br/>
+<h1>Functions and Math Methods</h1>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/f4a4cc17-3fb7-46e3-856d-ba5c8cdd8589"/>
+<h3>Math Methods</h3>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/3b9a2442-99a6-4a03-9d3b-8af81a525f66"/>
+<h3>Example:</h3>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/668fa01c-ed49-4032-aa60-a2e16084a843"/>
