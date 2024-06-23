@@ -204,3 +204,36 @@ byte S = Sc.nextByte();
 <img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/3b9a2442-99a6-4a03-9d3b-8af81a525f66"/>
 <h3>Example:</h3>
 <img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/668fa01c-ed49-4032-aa60-a2e16084a843"/>
+<br/>
+<h1>String and its Methods</h1>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/5e1b07c1-c872-4a3a-80f5-9e05357d85b8"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/3a908a47-f70d-45a4-9e28-c3f2400001fd"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/20239244-70aa-42a2-94f4-9eec1857a5d5"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/1d151b89-67c3-487b-8894-48f1025d3e35"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/3e2fc278-97ce-4424-8dfa-3d419f0849b0"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/981039ac-9ad1-487f-b51c-ea01d14c8ef3"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/acf3e4f4-b17d-421b-b168-f67df7c37998"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/22389660-f1c5-4c73-92db-cdad522db9a1"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/d65d2e74-0dfd-4db9-9a65-39ad4ab85aff"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/7206b510-bf9d-4014-86e5-408cab20daf9"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/07cc7f50-83ec-41a9-9b48-e4b3599acaf9"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/108e122b-e32e-4d26-be04-8b78d0be99af"/>
+<br/>
+<img src="https://github.com/Yogaprasadmk/Java_Development_Course_A_TO_Z/assets/120255515/912d926d-75d7-43ad-ade5-e859265b00d8"/>
+<br/>
+
+
+
+
+
